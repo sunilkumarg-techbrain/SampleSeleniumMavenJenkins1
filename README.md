@@ -1,2 +1,2 @@
-# SampleSeleniumMavenJenkins1
-Jenkins pipeline demo
+# SampleSeleniumMavenJenkins
+Sample Selenium Maven Jenkins Project
